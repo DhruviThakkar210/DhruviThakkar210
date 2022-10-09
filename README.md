@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruviThakkar210&label=Profile%20views&color=0e75b6&style=flat" alt="DhruviThakkar210" /> </p>
 
+
+<img alt="github contribution snake animation" src="https://github.com/DhruviThakkar210/Snake-Animation/blob/main/snake.svg">
+
+
 - 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **Drs.Kiran and Pallavi Patel Global University ,Vadodara**
 
 - 🌱 I’m currently learning **Java **
