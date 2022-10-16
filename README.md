@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruviThakkar210&" alt="DhruviThakkar210" /></p>
 [![@dhruvi210's Holopin board](https://holopin.me/dhruvi210)](https://holopin.io/@dhruvi210)
+
