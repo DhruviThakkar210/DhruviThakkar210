@@ -28,6 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruviThakkar210&show_icons=true&locale=en" alt="DhruviThakkar210" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruviThakkar210&" alt="DhruviThakkar210" /></p>
-[![@dhruvi210's Holopin board](https://holopin.me/dhruvi210)](https://holopin.io/@dhruvi210)
 
