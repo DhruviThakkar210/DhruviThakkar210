@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **Drs.Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **Java **
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **thakkardhruvi210@gmail.com**
 
