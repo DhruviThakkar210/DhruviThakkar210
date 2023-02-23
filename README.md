@@ -73,7 +73,7 @@ I am DHRUVI THAKKAR, Currently I am working as Software Developer at Aurorepro, 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iamrajiv" />
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=DhruviThakkar210" />
 </p>
 
 
