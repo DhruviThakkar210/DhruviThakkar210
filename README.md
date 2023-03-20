@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on TICKET BOOKING PROJECT 
-- 🌱 I’m currently learning ANALYTICS 
+- 🌱 I’m currently learning DEVOPS
 - 📫 How to reach me: thakkardhruvi210@gmail.com 
 - 😄 Pronouns: SHE/HER 
 
