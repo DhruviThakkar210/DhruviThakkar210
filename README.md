@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on TICKET BOOKING PROJECT 
+- 🔭 I’m currently working on ML 
 - 🌱 I’m currently exploring
 - 📫 How to reach me: thakkardhruvi210@gmail.com 
 - 😄 Pronouns: SHE/HER 
