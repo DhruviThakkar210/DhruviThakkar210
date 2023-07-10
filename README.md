@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ML 
-- 🌱 I’m currently exploring
+- 🔭 I’m currently working as a Devrel Intern at Keploy
 - 📫 How to reach me: thakkardhruvi210@gmail.com 
 - 😄 Pronouns: SHE/HER 
 
