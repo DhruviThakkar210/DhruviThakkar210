@@ -1,9 +1,8 @@
-# Junior Data Scientist 
+# Junior Data Scientist Portfolio
 
 ## Introduction
 
 👋 Hello! I'm Dhruvi Thakkar, a junior data scientist passionate about leveraging data to derive meaningful insights and solve real-world problems. This repository serves as a portfolio showcasing my projects, skills, and journey in the field of data science.
-
 
 ## Skills
 
@@ -17,12 +16,12 @@
 - **Statistical Analysis:** Hypothesis testing, regression analysis
 - **Communication:** Ability to explain complex concepts to non-technical stakeholders
 
+
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/dhruvithakkar210/]
-- Email: [thakkardhruvi210@gmail.com]
-- Twitter: [https://twitter.com/dhruvicodes]
-
+- LinkedIn: [Dhruvi Thakkar](https://www.linkedin.com/in/dhruvithakkar210/)
+- Email: [thakkardhruvi210@gmail.com](mailto:thakkardhruvi210@gmail.com)
+- Twitter: [@dhruvicodes](https://twitter.com/dhruvicodes)
 
 ## Feedback
 
