@@ -1,4 +1,4 @@
-# Junior Data Scientist Portfolio
+# Junior Data Scientist
 
 ## Introduction
 
