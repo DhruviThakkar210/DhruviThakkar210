@@ -6,7 +6,7 @@
 
 ## Skills
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python , Java 
 - **Data Manipulation and Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
