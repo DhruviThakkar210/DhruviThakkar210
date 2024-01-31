@@ -12,7 +12,7 @@
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **Database Management:** SQL,MYSQL
 - **Version Control:** Git, GitHub
-- **Data Cleaning:** Handling missing data, outlier detection
+- **Data Cleaning:** Handling missing data, outlier detection,feature engineering
 - **Statistical Analysis:** Hypothesis testing, regression analysis
 - **Communication:** Ability to explain complex concepts to non-technical stakeholders
 
