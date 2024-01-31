@@ -2,7 +2,7 @@
 
 ## Introduction
 
-👋 Hello! I'm Dhruvi Thakkar, a junior data scientist passionate about leveraging data to derive meaningful insights and solve real-world problems. This repository serves as a portfolio showcasing my projects, skills, and journey in the field of data science.
+👋 Hello! I'm Dhruvi Thakkar, a junior data scientist passionate about leveraging data to derive meaningful insights and solve real-world problems. This  serves as a portfolio showcasing my projects, skills, and journey in the field of data science.
 
 ## Skills
 
