@@ -19,7 +19,6 @@
 
 ## Contact
 
-- LinkedIn: [Dhruvi Thakkar](https://www.linkedin.com/in/dhruvithakkar210/)
 - Email: [thakkardhruvi210@gmail.com](mailto:thakkardhruvi210@gmail.com)
 - Twitter: [@dhruvicodes](https://twitter.com/dhruvicodes)
 
