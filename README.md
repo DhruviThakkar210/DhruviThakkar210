@@ -21,7 +21,7 @@
 
 - Email: [thakkardhruvi210@gmail.com](mailto:thakkardhruvi210@gmail.com)
 - Twitter: [@dhruvicodes](https://twitter.com/dhruvicodes)
-
+- LinkedIn: [Dhruvi Thakkar](https://www.linkedin.com/in/dhruvithakkar210/)
 ## Feedback
 
 I'm open to feedback and collaboration! If you have any suggestions or want to discuss a project, feel free to reach out.
