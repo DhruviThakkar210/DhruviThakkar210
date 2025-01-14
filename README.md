@@ -1,6 +1,4 @@
-Based on the style of the provided example, here’s a GitHub README for you as a **Research Scientist**:  
 
----
 
 # Research Scientist  
 
